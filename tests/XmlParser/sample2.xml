@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<offers>
+    <offer>
+        <id><![CDATA[6146]]></id>
+        <name><![CDATA[Generic Frozen Keyboard]]></name>
+        <category><![CDATA[Fantastic]]></category>
+        <description><![CDATA[Et sapiente accusantium ea pariatur voluptatem quis architecto et nam eveniet vel doloremque autem harum aut facere suscipit quibusdam maiores impedit occaecati facere omnis sapiente voluptatem et dolore voluptatem vitae nihil voluptatem autem minus blanditiis suscipit et id voluptas et necessitatibus optio dolores velit pariatur earum sint recusandae sunt quas ducimus sit deserunt sint ut expedita et exercitationem ducimus vel alias id repudiandae ad et enim amet illum voluptas rem omnis dolor a animi a laborum et esse doloribus corrupti et hic minima autem sed non tempore quasi quas modi debitis unde dolor inventore laborum minima explicabo qui sed sed eum doloribus est animi rerum beatae a maxime autem dolor dolor consequatur repellat temporibus porro sequi distinctio sit aliquid aut et mollitia numquam expedita illo repellendus amet deleniti possimus laboriosam voluptatem id sed reprehenderit temporibus consequatur eos et totam quibusdam non labore numquam eveniet cumque libero maxime enim ut qui hic eum officia id repellat veritatis quis tempore quos blanditiis labore et aut quas occaecati eveniet ut impedit itaque enim aut iusto ipsum itaque voluptatem esse illum similique omnis eum aut libero dicta cum animi rerum reprehenderit accusantium ut tempora laborum voluptatem sapiente voluptatum aliquam fugiat alias facere sit sunt.]]></description>
+        <price><![CDATA[395.02 EUR]]></price>
+        <url><![CDATA[https://example.com/product/6146]]></url>
+        <image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+        <opening_times><![CDATA[{"1":[{"opening":"10:30","closing":"00:00"}],"2":[{"opening":"10:30","closing":"00:00"}],"3":[{"opening":"10:30","closing":"00:00"}],"4":[{"opening":"10:30","closing":"00:00"}],"5":[{"opening":"10:30","closing":"02:00"}],"6":[{"opening":"11:00","closing":"02:00"}],"7":[{"opening":"11:00","closing":"00:00"}],"timezone":"Europe/Warsaw"}]]></opening_times>
+    </offer>
+</offers>

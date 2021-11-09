@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<offers>
+    <offer>
+        <id><![CDATA[7669]]></id>
+        <name><![CDATA[Rustic Wooden Chicken]]></name>
+        <category><![CDATA[Small]]></category>
+        <description><![CDATA[Facilis enim tenetur doloribus id dolores omnis odit voluptas autem officia natus consequatur at maxime autem hic voluptatem accusantium dolor ipsa voluptatem quae non eos et soluta iure itaque vitae magnam qui unde qui et omnis saepe voluptate autem quas tenetur deleniti libero non atque id aut ut ea id fugit debitis necessitatibus est debitis dolorem eaque atque ea id aut exercitationem harum placeat sunt ad atque suscipit eum ducimus corrupti cupiditate molestias quis rerum fugit laudantium aut voluptatem consequatur magnam eum dicta porro placeat dolorum blanditiis provident nam et ut et voluptas non sequi debitis aut est consequuntur est ut ea labore inventore vel non ullam libero debitis autem iusto sed optio aut et deleniti saepe sed eos est aut sed sint commodi nobis iure pariatur at sit vitae qui quisquam voluptas harum quas corrupti dolores culpa ea velit dignissimos veritatis cum molestias sit mollitia eos sit sunt totam eos totam atque qui aut non quia accusamus sequi labore nemo error praesentium quam aut voluptatem dignissimos sapiente sit error ut aut voluptates cumque dolores itaque delectus molestias dolor doloribus laborum qui consequatur accusamus cumque atque architecto repudiandae quidem sed est et consequatur doloremque quo qui quisquam omnis blanditiis et.]]></description>
+        <price><![CDATA[112.46 EUR]]></price>
+        <url><![CDATA[https://example.com/product/7669]]></url>
+        <image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+        <opening_times><![CDATA[{"1":[{"opening":"10:00","closing":"21:00"}],"2":[{"opening":"10:00","closing":"21:00"}],"3":[{"opening":"10:00","closing":"21:00"}],"4":[{"opening":"10:00","closing":"21:00"}],"5":[{"opening":"10:00","closing":"21:00"}],"6":[{"opening":"10:00","closing":"21:00"}],"7":[{"opening":"10:30","closing":"20:00"}],"timezone":"Europe/Warsaw"}]]></opening_times>
+    </offer>
+</offers>

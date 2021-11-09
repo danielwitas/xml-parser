@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<offers>
+    <offer>
+        <id><![CDATA[9988]]></id>
+        <name><![CDATA[Rustic Granite Tuna]]></name>
+        <category><![CDATA[Gorgeous]]></category>
+        <description><![CDATA[Vitae ut et et ratione voluptatem rerum vero nesciunt itaque dolores non similique qui aut dicta veniam placeat dolore et et cupiditate illum sit praesentium veniam blanditiis pariatur ut sapiente et aut unde fugit voluptatem ea aut magni aliquam explicabo iste recusandae dolores non est eum est ad dolore animi laboriosam beatae vitae rerum eius maiores aut sit a eum et temporibus ea soluta totam delectus sit id porro et at iusto sed odit aut eos sit reiciendis consequatur dolor quis qui accusantium repudiandae qui sint sapiente velit nobis quibusdam fugiat at voluptas ut dolore ullam dolorum alias qui similique odio sint veritatis eaque et iste molestiae dicta itaque et consequuntur voluptate eum vel libero quis a et consequatur quis non quae repudiandae cumque nemo voluptas itaque qui odio culpa et rerum eum sunt et quo perferendis quia ipsum dolores accusantium laborum ullam eligendi amet nam odit eveniet commodi natus repudiandae itaque vitae ad voluptates cum voluptas mollitia itaque voluptates et dolorum a sed illum vitae perferendis maxime distinctio maiores ut autem accusamus nihil deserunt quo ipsa quo et sed laudantium quis velit placeat corporis et sunt quasi qui illum voluptate sint velit sunt nam quis illo animi iste autem.]]></description>
+        <price><![CDATA[102.33 EUR]]></price>
+        <url><![CDATA[https://example.com/product/9988]]></url>
+        <image_url><![CDATA[http://lorempixel.com/640/480]]></image_url>
+        <opening_times><![CDATA[{"1":[{"opening":"11:00","closing":"23:00"}],"2":[{"opening":"11:00","closing":"23:00"}],"3":[{"opening":"11:00","closing":"23:00"}],"4":[{"opening":"11:00","closing":"23:00"}],"5":[{"opening":"11:00","closing":"00:00"}],"6":[{"opening":"11:00","closing":"00:00"}],"7":[{"opening":"11:00","closing":"23:00"}],"timezone":"Europe/Warsaw"}]]></opening_times>
+    </offer>
+</offers>
